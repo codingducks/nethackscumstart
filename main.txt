@@ -1,0 +1,7 @@
+python3 wipestart.py
+
+xdotool search nethack.alt.org > windownumber.txt
+
+python3 windowid.py
+
+bash the_loop.txt

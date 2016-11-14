@@ -1,0 +1,41 @@
+
+
+
+
+
+while grep -i 'true' someornone.txt; do
+
+	xdotool windowactivate --sync WINDOWID key p n w e f space space space i
+	sleep 1
+	xdotool mousemove --window WINDOWID 10 30
+	sleep 0.2
+	xdotool  mousedown 1
+	sleep 0.2
+	xdotool mousemove_relative --sync 500 400
+	sleep 0.2
+	xdotool mouseup 1
+	sleep 0.2
+	xdotool click 3
+	sleep 0.2
+	xdotool click 1
+	sleep 0.2
+
+
+	xclip -o > nethackinvi.txt
+
+	python3 scumstartscript.py
+
+	sleep 1
+
+
+
+	if grep -i 'true' someornone.txt; then
+	    xdotool windowactivate --sync WINDOWID key space shift+3 q Return y n n n space
+
+	else
+	    echo "found it"
+	fi
+sleep 2
+done
+	    
+

@@ -1,0 +1,24 @@
+               Weapons
+                a - a blessed +1 quarterstaff (weapon in hands)
+                Armor
+                b - an uncursed +0 cloak of magic resistance (being worn)
+                Scrolls
+                i - an uncursed scroll of remove curse
+                j - an uncursed scroll of punishment
+                k - an uncursed scroll of light
+                Spellbooks
+                l - a blessed spellbook of force bolt
+                m - an uncursed spellbook of knock
+                Potions
+                f - an uncursed potion of extra healing
+                g - an uncursed potion of see invisible
+                h - an uncursed potion of healing
+                Rings
+                d - an uncursed ring of invisibility
+                e - an uncursed +1 ring of adornment
+                Wands
+                c - a wand of polymorph (0:8)
+                Tools
+                n - an uncursed leather drum
+Pikapika the Ev (end) 
+Dlvl:1  $:0  HP:11(11) Pw:7(7) AC:9  Xp:1/0 T:1
